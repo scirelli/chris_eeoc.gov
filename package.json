@@ -1,0 +1,25 @@
+{
+  "name": "eeoc.gov",
+  "version": "1.0.0",
+  "description": "scrape eeoc.gov",
+  "main": "scrape.sh",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scirelli/chris_eeoc.gov.git"
+  },
+  "keywords": [
+    "scraper"
+  ],
+  "author": "Steve Cirelli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scirelli/chris_eeoc.gov/issues"
+  },
+  "homepage": "https://github.com/scirelli/chris_eeoc.gov#readme",
+  "dependencies": {
+    "sanitize-html": "^1.16.1"
+  }
+}
